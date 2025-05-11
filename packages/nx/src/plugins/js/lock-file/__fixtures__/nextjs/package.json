@@ -15,11 +15,11 @@
     "react-dom": "18.2.0",
     "regenerator-runtime": "0.13.7",
     "tslib": "^2.3.0",
-    "@nrwl/next": "15.3.3"
+    "@nrwl/next": "16.0.0"
   },
   "devDependencies": {
     "@babel/preset-react": "^7.14.5",
-    "@testing-library/react": "13.4.0",
+    "@testing-library/react": "16.0.0",
     "@types/jest": "28.1.1",
     "@types/node": "18.11.9",
     "@types/react": "18.0.25",
@@ -29,11 +29,11 @@
     "babel-jest": "28.1.1",
     "cypress": "^11.0.0",
     "eslint": "~8.15.0",
-    "eslint-config-next": "13.0.0",
+    "eslint-config-next": "15.0.0",
     "eslint-config-prettier": "8.1.0",
     "eslint-plugin-cypress": "^2.10.3",
     "eslint-plugin-import": "2.26.0",
-    "eslint-plugin-jsx-a11y": "6.6.1",
+    "eslint-plugin-jsx-a11y": "6.9.0",
     "eslint-plugin-react": "7.31.11",
     "eslint-plugin-react-hooks": "4.6.0",
     "jest": "28.1.1",
@@ -49,7 +49,7 @@
     "@nrwl/jest": "15.3.3",
     "@nrwl/linter": "15.3.3",
     "@nrwl/react": "15.3.3",
-    "@nrwl/web": "15.3.3",
+    "@nrwl/web": "15.6.0",
     "@nrwl/workspace": "15.3.3"
   }
 }
